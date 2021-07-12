@@ -1,0 +1,22 @@
+{
+  "name": "test-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vmik7/test-repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vmik7/test-repo/issues"
+  },
+  "homepage": "https://github.com/vmik7/test-repo#readme",
+  "dependencies": {
+    "signale": "^1.4.0"
+  }
+}
