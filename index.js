@@ -9,3 +9,5 @@ signale.star("This is a star");
 signale.debug("This is a debug");
 signale.error("This is an error");
 signale.fatal("This is a fatal");
+
+signale.log("This is a log");
