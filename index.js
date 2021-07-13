@@ -16,4 +16,5 @@ signale.error("This is an error");
 signale.fatal("This is a fatal");
 
 console.log("This is a console log");
+
 console.error("This is a console error");
