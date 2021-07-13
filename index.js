@@ -1,11 +1,13 @@
 const signale = require("signale");
 
 signale.note("This is a note");
-signale.success("This is a success");
+signale.star("This is a star");
+
 signale.start("This is a start");
 signale.await("This is an await");
 signale.complete("This is a complete");
-signale.star("This is a star");
+
+signale.success("This is a success");
 
 signale.debug("This is a debug");
 signale.error("This is an error");
