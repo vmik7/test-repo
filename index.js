@@ -1,5 +1,7 @@
 const signale = require("signale");
 
+signale.log("This is a log");
+
 signale.note("This is a note");
 signale.star("This is a star");
 
@@ -12,5 +14,3 @@ signale.success("This is a success");
 signale.debug("This is a debug");
 signale.error("This is an error");
 signale.fatal("This is a fatal");
-
-signale.log("This is a log");
