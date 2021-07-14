@@ -1,5 +1,7 @@
 const signale = require("signale");
 
+console.error("This message will be in stderr!!!");
+
 signale.log("This is a log");
 
 signale.note("This is a note");
@@ -17,4 +19,4 @@ signale.fatal("This is a fatal");
 
 console.log("This is a console log");
 
-console.error("This is a console error");
+console.error("This message will be in stderr!!!");
